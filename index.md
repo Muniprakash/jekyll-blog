@@ -2,10 +2,6 @@
 date: '2017-07-11T05:40:45.708Z'
 layout: home
 ---
-title:Home
-
----
-
 # <a id="_wcbyik9p97p8"></a>Welcome to eSquareGlobal
 
 Homed at the center of a major business city, Dubai. Has been in the Industry since 2015.
