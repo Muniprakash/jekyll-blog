@@ -18,7 +18,7 @@ We are founded and backed by well recognized professionals and industry leaders 
 
 We are one of the fastest growing ED-tech companies in the region, with one of the highest adoption & usage rates. We are a GESS innovation award nominee for March 2016 and have spent 3-4 years in extensive research in building our practical, simple, and powerful solution.
 
-**Purpose**
+**_Purpose_**
 
 Our purpose is to 'empower education' in the region and beyond. Technological revolution and shifts around the new sharing-economy paradigm will disrupt traditional thinking around managing schools, as it has disrupted other industries, and we aspire to be at the forefront.
 

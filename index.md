@@ -13,3 +13,5 @@ Types of products available,
 3.  Teacher management system
 
 Along the few past years we had researched a lot of types of schools and have gained abundant information.
+
+![](./images/6672193f-364a-4a06-a6a5-4d0eba6b019a.jpg)
